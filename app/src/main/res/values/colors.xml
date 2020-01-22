@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="splashColor">#363636</color>
+    <color name="white">#ffffff</color>
+    <color name="goldenColor">#E3B343</color>
+    <color name="goldenDark">#ECAD1E</color>
+    <color name="black">#000000</color>
+    <color name="grey">#2A927F7F</color>
+    <color name="novate_color">#417dff</color>
+    <color name="live_color">#00ff9b</color>
+</resources>

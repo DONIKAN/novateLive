@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NovateLiveProject</string>
+    <string name="togetStarted">To get started, enter code at</string>
+    <string name="webSite">http://novatelive.com/setup</string>
+    <string name="visit">Visit Link</string>
+    <string name="pleaseWait">Please Wait</string>
+    <string name="downloading">Downloading Media</string>
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_closing_the_app">Confir close App</string>
+    <string name="novate_live">NovateLive</string>
+    <string name="no_campaign_available">No campaign available</string>
+    <string name="go_to_http_onsigntv">Go to http://novatelive.com to publish one</string>
+</resources>
